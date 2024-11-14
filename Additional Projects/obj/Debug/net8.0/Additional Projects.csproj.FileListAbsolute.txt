@@ -1,0 +1,14 @@
+D:\ProjectsWithCsharp\Homeworks\Additional-Projects\Additional Projects\obj\Debug\net8.0\Additional Projects.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsWithCsharp\Homeworks\Additional-Projects\Additional Projects\obj\Debug\net8.0\Additional Projects.AssemblyInfoInputs.cache
+D:\ProjectsWithCsharp\Homeworks\Additional-Projects\Additional Projects\obj\Debug\net8.0\Additional Projects.AssemblyInfo.cs
+D:\ProjectsWithCsharp\Homeworks\Additional-Projects\Additional Projects\obj\Debug\net8.0\Additional Projects.csproj.CoreCompileInputs.cache
+D:\ProjectsWithCsharp\Homeworks\Additional-Projects\Additional Projects\bin\Debug\net8.0\Additional Projects.exe
+D:\ProjectsWithCsharp\Homeworks\Additional-Projects\Additional Projects\bin\Debug\net8.0\Additional Projects.deps.json
+D:\ProjectsWithCsharp\Homeworks\Additional-Projects\Additional Projects\bin\Debug\net8.0\Additional Projects.runtimeconfig.json
+D:\ProjectsWithCsharp\Homeworks\Additional-Projects\Additional Projects\bin\Debug\net8.0\Additional Projects.dll
+D:\ProjectsWithCsharp\Homeworks\Additional-Projects\Additional Projects\bin\Debug\net8.0\Additional Projects.pdb
+D:\ProjectsWithCsharp\Homeworks\Additional-Projects\Additional Projects\obj\Debug\net8.0\Additional Projects.dll
+D:\ProjectsWithCsharp\Homeworks\Additional-Projects\Additional Projects\obj\Debug\net8.0\refint\Additional Projects.dll
+D:\ProjectsWithCsharp\Homeworks\Additional-Projects\Additional Projects\obj\Debug\net8.0\Additional Projects.pdb
+D:\ProjectsWithCsharp\Homeworks\Additional-Projects\Additional Projects\obj\Debug\net8.0\Additional Projects.genruntimeconfig.cache
+D:\ProjectsWithCsharp\Homeworks\Additional-Projects\Additional Projects\obj\Debug\net8.0\ref\Additional Projects.dll
