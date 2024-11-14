@@ -5,7 +5,7 @@
                va shu massivdagi hamma sonlarning yig'indisidan eng kottasini, va uning i va j indekslarini alohida - alohida,
                va shu massivning hamma sonlarning yig'indisidan eng kichigini, va uning i va j indekslarini alohida - alohida,
                va eng kotta yig'indi bilan massivdagi eng oxxirgi o'rinda joylashgan son blan o'rnining almashganini,
-               va eng kichik yig'indi bilan massivdagi birinchi o'rinda joylashgan son blan o'rnining almashganini chiqarib beruvchi dastur tuzing!!!'
+               va eng kichik yig'indi bilan massivdagi birinchi o'rinda joylashgan son blan o'rnining almashganini chiqarib beruvchi dastur tuzing!!!. Faqat endi C# tida tuzilsin'
            */
 
 
